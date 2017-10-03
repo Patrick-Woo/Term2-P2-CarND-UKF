@@ -1,5 +1,5 @@
-# Extended Kalman Filter
-This Project is the sixth task (Project 2 of Term 2) of the Udacity Self-Driving Car Nanodegree program. 
+# Unscented Kalman Filter
+This Project is the seventh task (Project 2 of Term 2) of the Udacity Self-Driving Car Nanodegree program. 
 
 The main goal of the project is to apply Unscented Kalman Filter to fuse data from LIDAR and Radar sensors of a self driving car using C++.
 
